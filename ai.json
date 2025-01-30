@@ -1,0 +1,38 @@
+[
+    {
+      "title": "ChatGPT",
+      "shortdescription": "چت بات هوش مصنوعی",
+      "longdescription": "چت جی‌پی‌تی یک مدل زبان هوش مصنوعی است که برای پاسخ به سوالات و انجام مکالمات طبیعی با انسان‌ها طراحی شده است.",
+      "image": "https://example.com/images/ai.png",
+      "link": "https://chat.openai.com"
+    },
+    {
+      "title": "Bard",
+      "shortdescription": "چت بات گوگل",
+      "longdescription": "بارد یک مدل هوش مصنوعی است که توسط گوگل ساخته شده و در پردازش زبان طبیعی و تولید پاسخ‌ها به کار می‌رود.",
+      "image": "https://example.com/images/bard.png",
+      "link": "https://bard.google.com"
+    },
+    {
+      "title": "DeepMind",
+      "shortdescription": "هوش مصنوعی پیشرفته",
+      "longdescription": "دیپ‌مایند یکی از پیشرفته‌ترین سیستم‌های هوش مصنوعی است که توسط شرکت گوگل توسعه داده شده است.",
+      "image": "https://example.com/images/deepmind.png",
+      "link": "https://deepmind.com"
+    },
+    {
+      "title": "Claude",
+      "shortdescription": "چت بات پیشرفته",
+      "longdescription": "کلود یک مدل هوش مصنوعی است که به کمک پردازش زبان طبیعی، توانایی ایجاد و مدیریت مکالمات پیشرفته را دارد.",
+      "image": "https://example.com/images/claude.png",
+      "link": "https://claude.ai"
+    },
+    {
+      "title": "GPT-3",
+      "shortdescription": "مدل زبان بزرگ",
+      "longdescription": "GPT-3 یک مدل زبان با بیش از 175 میلیارد پارامتر است که توانایی تولید متن‌های طبیعی و پاسخ به سوالات پیچیده را دارد.",
+      "image": "https://example.com/images/gpt3.png",
+      "link": "https://openai.com/gpt-3"
+    }
+  ]
+  
